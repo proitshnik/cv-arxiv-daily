@@ -22,10 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
+    # "SLAM": 
+    #     filters: ["SLAM", "Visual Odometry"]
+    # "SFM":
+    #     filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
