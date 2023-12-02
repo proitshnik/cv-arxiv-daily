@@ -37,3 +37,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "point cloud":
+        filters: ["point cloud"]
