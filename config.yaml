@@ -22,10 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    # "SLAM": 
-    #     filters: ["SLAM", "Visual Odometry"]
-    # "SFM":
-    #     filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
@@ -39,3 +35,7 @@ keywords:
         filters: ["NeRF"]
     "point cloud":
         filters: ["point cloud"]
+    # "SLAM": 
+    #     filters: ["SLAM", "Visual Odometry"]
+    # "SFM":
+    #     filters: ["SFM", "Structure from Motion"]
