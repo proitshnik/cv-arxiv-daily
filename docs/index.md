@@ -589,6 +589,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
+|**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
+|**2023-12-13**|**Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques**|Hamed Qazanfari et.al.|[2312.10089](http://arxiv.org/abs/2312.10089)|null|
 |**2023-12-15**|**Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**|Zhe Ma et.al.|[2312.09716](http://arxiv.org/abs/2312.09716)|**[link](https://github.com/maryeon/whiten_mtd)**|
 |**2023-12-14**|**Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**|Oliver Grainge et.al.|[2312.09028](http://arxiv.org/abs/2312.09028)|null|
 |**2023-12-14**|**Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**|Shitong Sun et.al.|[2312.08924](http://arxiv.org/abs/2312.08924)|null|
@@ -1588,6 +1593,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
@@ -2291,6 +2298,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders**|Yaohua Zha et.al.|[2312.10726](http://arxiv.org/abs/2312.10726)|**[link](https://github.com/zyh16143998882/aaai24-pointfemae)**|
+|**2023-12-17**|**Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671](http://arxiv.org/abs/2312.10671)|null|
+|**2023-12-17**|**Robust 3D Tracking with Quality-Aware Shape Completion**|Jingwen Zhang et.al.|[2312.10608](http://arxiv.org/abs/2312.10608)|null|
+|**2023-12-16**|**Not Every Side Is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection**|ChuXin Wang et.al.|[2312.10390](http://arxiv.org/abs/2312.10390)|null|
+|**2023-12-16**|**MMBaT: A Multi-task Framework for mmWave-based Human Body Reconstruction and Translation Prediction**|Jiarui Yang et.al.|[2312.10346](http://arxiv.org/abs/2312.10346)|null|
+|**2023-12-15**|**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**|Weijie Wei et.al.|[2312.10217](http://arxiv.org/abs/2312.10217)|null|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
 |**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
