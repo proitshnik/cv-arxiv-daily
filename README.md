@@ -2381,6 +2381,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
 |**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
 |**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
 |**2024-01-03**|**CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers**|Yi Rong et.al.|[2401.01552](http://arxiv.org/abs/2401.01552)|**[link](https://github.com/easyry/cra-pcn)**|
