@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1618,7 +1618,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
-|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588](http://arxiv.org/abs/2401.02588)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
@@ -2366,7 +2366,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702](http://arxiv.org/abs/2401.02702)|null|
-|**2024-01-05**|**DHGCN: Dynamic Hop Graph Convolution Network for Self-supervised Point Cloud Learning**|Jincen Jiang et.al.|[2401.02610](http://arxiv.org/abs/2401.02610)|null|
+|**2024-01-05**|**DHGCN: Dynamic Hop Graph Convolution Network for Self-supervised Point Cloud Learning**|Jincen Jiang et.al.|[2401.02610](http://arxiv.org/abs/2401.02610)|**[link](https://github.com/jinec98/dhgcn)**|
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550](http://arxiv.org/abs/2401.02550)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
