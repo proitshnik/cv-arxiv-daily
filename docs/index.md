@@ -1226,6 +1226,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
@@ -1625,6 +1626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935](http://arxiv.org/abs/2401.07935)|null|
@@ -2387,6 +2389,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
+|**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057](http://arxiv.org/abs/2401.09057)|null|
+|**2024-01-17**|**Enhancing Lidar-based Object Detection in Adverse Weather using Offset Sequences in Time**|Raphael van Kempen et.al.|[2401.09049](http://arxiv.org/abs/2401.09049)|null|
+|**2024-01-17**|**Uncertainty-aware No-Reference Point Cloud Quality Assessment**|Songlin Fan et.al.|[2401.08926](http://arxiv.org/abs/2401.08926)|null|
+|**2024-01-16**|**Benchmarking Particle Filter Algorithms for Efficient Velodyne-Based Vehicle Localization**|Jose Luis Blanco-Claraco et.al.|[2401.08870](http://arxiv.org/abs/2401.08870)|null|
+|**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|null|
+|**2024-01-16**|**Registration of algebraic varieties using Riemannian optimization**|Florentin Goyens et.al.|[2401.08562](http://arxiv.org/abs/2401.08562)|**[link](https://github.com/flgoyens/variety-registration)**|
+|**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-16**|**Optimizing $k$ in $k$ NN Graphs with Graph Learning Perspective**|Asuka Tamaru et.al.|[2401.08245](http://arxiv.org/abs/2401.08245)|null|
 |**2024-01-16**|**ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification**|Zhongbin Fang et.al.|[2401.08210](http://arxiv.org/abs/2401.08210)|**[link](https://github.com/fanglaosi/pointmls)**|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
