@@ -1650,7 +1650,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-19**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
+|**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175](http://arxiv.org/abs/2401.12175)|null|
+|**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985](http://arxiv.org/abs/2401.11985)|null|
+|**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711](http://arxiv.org/abs/2401.11711)|null|
+|**2024-01-22**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
@@ -2416,6 +2419,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Matching biomolecular structures by registration of point clouds**|Michael Habeck et.al.|[2401.12082](http://arxiv.org/abs/2401.12082)|null|
+|**2024-01-22**|**CloSe: A 3D Clothing Segmentation Dataset and Model**|Dimitrije Antić et.al.|[2401.12051](http://arxiv.org/abs/2401.12051)|null|
+|**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[2401.11913](http://arxiv.org/abs/2401.11913)|null|
+|**2024-01-22**|**Sphractal: Estimating the Fractal Dimension of Surfaces Computed from Precise Atomic Coordinates via Box-Counting Algorithm**|Jonathan Yik Chang Ting et.al.|[2401.11737](http://arxiv.org/abs/2401.11737)|null|
+|**2024-01-22**|**PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis**|Jianan Li et.al.|[2401.11650](http://arxiv.org/abs/2401.11650)|**[link](https://github.com/roywangj/pointgl)**|
+|**2024-01-21**|**Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals**|Shaoheng Fang et.al.|[2401.11499](http://arxiv.org/abs/2401.11499)|null|
+|**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491](http://arxiv.org/abs/2401.11491)|null|
+|**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
+|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|null|
+|**2024-01-20**|**Towards Category Unification of 3D Single Object Tracking on Point Clouds**|Jiahao Nie et.al.|[2401.11204](http://arxiv.org/abs/2401.11204)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556](http://arxiv.org/abs/2401.10556)|null|
 |**2024-01-18**|**TIPSY: Trajectory of Infalling Particles in Streamers around Young stars. Dynamical analysis of the streamers around S CrA and HL Tau**|Aashish Gupta et.al.|[2401.10403](http://arxiv.org/abs/2401.10403)|null|
