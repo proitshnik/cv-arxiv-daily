@@ -602,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
 |**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
@@ -1658,6 +1659,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
@@ -2436,6 +2438,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Unsupervised Discovery of Steerable Factors When Graph Deep Generative Models Are Entangled**|Shengchao Liu et.al.|[2401.17123](http://arxiv.org/abs/2401.17123)|**[link](https://github.com/chao1224/graphcg)**|
+|**2024-01-30**|**A Point Cloud Enhancement Method for 4D mmWave Radar Imagery**|Qingmian Wan et.al.|[2401.16714](http://arxiv.org/abs/2401.16714)|null|
+|**2024-01-29**|**Pick and Place Planning is Better than Pick Planning then Place Planning**|Mohanraj Devendran Shanthi et.al.|[2401.16585](http://arxiv.org/abs/2401.16585)|null|
 |**2024-01-29**|**MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection**|Yuxue Yang et.al.|[2401.16305](http://arxiv.org/abs/2401.16305)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-29**|**Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation**|Jie Liu et.al.|[2401.16051](http://arxiv.org/abs/2401.16051)|null|
