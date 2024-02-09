@@ -2442,8 +2442,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889](http://arxiv.org/abs/2402.05889)|null|
+|**2024-02-08**|**A Concept for Reconstructing Stucco Statues from historic Sketches using synthetic Data only**|Thomas Pöllabauer et.al.|[2402.05593](http://arxiv.org/abs/2402.05593)|null|
+|**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540](http://arxiv.org/abs/2402.05540)|null|
+|**2024-02-08**|**DiffTOP: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning**|Weikang Wan et.al.|[2402.05421](http://arxiv.org/abs/2402.05421)|null|
+|**2024-02-07**|**Performance analysis of Deep Learning-based Lossy Point Cloud Geometry Compression Coding Solutions**|Joao Prazeres et.al.|[2402.05192](http://arxiv.org/abs/2402.05192)|null|
+|**2024-02-06**|**LtU-ILI: An All-in-One Framework for Implicit Inference in Astrophysics and Cosmology**|Matthew Ho et.al.|[2402.05137](http://arxiv.org/abs/2402.05137)|null|
 |**2024-02-07**|**Tactile Ergodic Control Using Diffusion and Geometric Algebra**|Cem Bilaloglu et.al.|[2402.04862](http://arxiv.org/abs/2402.04862)|null|
-|**2024-02-07**|**Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression**|Davi Lazzarotto et.al.|[2402.04760](http://arxiv.org/abs/2402.04760)|null|
+|**2024-02-08**|**Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression**|Davi Lazzarotto et.al.|[2402.04760](http://arxiv.org/abs/2402.04760)|null|
 |**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
 |**2024-02-06**|**Breaking Data Silos: Cross-Domain Learning for Multi-Agent Perception from Independent Private Sources**|Jinlong Li et.al.|[2402.04273](http://arxiv.org/abs/2402.04273)|null|
 |**2024-02-06**|**Multilinear Kernel Regression and Imputation via Manifold Learning**|Duc Thien Nguyen et.al.|[2402.03648](http://arxiv.org/abs/2402.03648)|null|
