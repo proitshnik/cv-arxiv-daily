@@ -589,6 +589,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
+|**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
+|**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
 |**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
@@ -1493,6 +1496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
 |**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
@@ -1699,6 +1703,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
+|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
+|**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
+|**2024-03-14**|**RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**|Thang-Anh-Quan Nguyen et.al.|[2403.09419](http://arxiv.org/abs/2403.09419)|null|
+|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|null|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
@@ -2551,6 +2561,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639](http://arxiv.org/abs/2403.09639)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
+|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|null|
+|**2024-03-14**|**OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments**|Yinan Deng et.al.|[2403.09412](http://arxiv.org/abs/2403.09412)|**[link](https://github.com/bit-dyn/opengraph)**|
+|**2024-03-14**|**PoIFusion: Multi-Modal 3D Object Detection via Fusion at Points of Interest**|Jiajun Deng et.al.|[2403.09212](http://arxiv.org/abs/2403.09212)|null|
+|**2024-03-14**|**A New Split Algorithm for 3D Gaussian Splatting**|Qiyuan Feng et.al.|[2403.09143](http://arxiv.org/abs/2403.09143)|null|
+|**2024-03-14**|**Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery**|Jerrin Bright et.al.|[2403.09063](http://arxiv.org/abs/2403.09063)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770](http://arxiv.org/abs/2403.08770)|null|
 |**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460](http://arxiv.org/abs/2403.08460)|null|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
