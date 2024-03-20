@@ -589,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
+|**2024-03-19**|**Quantixar: High-performance Vector Data Management System**|Gulshan Yadav et.al.|[2403.12583](http://arxiv.org/abs/2403.12583)|null|
 |**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367](http://arxiv.org/abs/2403.11367)|null|
 |**2024-03-17**|**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**|Paul S. Scotti et.al.|[2403.11207](http://arxiv.org/abs/2403.11207)|**[link](https://github.com/medarc-ai/mindeyev2)**|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
@@ -1504,6 +1506,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
@@ -1715,6 +1718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839](http://arxiv.org/abs/2403.12839)|null|
+|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
+|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198](http://arxiv.org/abs/2403.12198)|null|
+|**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154](http://arxiv.org/abs/2403.12154)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
+|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909](http://arxiv.org/abs/2403.11909)|null|
+|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/abs/2403.11899)|null|
+|**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865](http://arxiv.org/abs/2403.11865)|null|
+|**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|null|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776](http://arxiv.org/abs/2403.11776)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
@@ -2590,6 +2603,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631](http://arxiv.org/abs/2403.12631)|null|
+|**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538](http://arxiv.org/abs/2403.12538)|null|
+|**2024-03-19**|**UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All**|Yuanhuiyi Lyu et.al.|[2403.12532](http://arxiv.org/abs/2403.12532)|null|
+|**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449](http://arxiv.org/abs/2403.12449)|null|
+|**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317](http://arxiv.org/abs/2403.12317)|null|
+|**2024-03-18**|**DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions**|Yunxiao Shi et.al.|[2403.12202](http://arxiv.org/abs/2403.12202)|null|
+|**2024-03-18**|**GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2403.11848](http://arxiv.org/abs/2403.11848)|null|
+|**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
+|**2024-03-18**|**HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**|Sha Zhang et.al.|[2403.11817](http://arxiv.org/abs/2403.11817)|**[link](https://github.com/zhangsha1024/HVDistill)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
 |**2024-03-18**|**DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction**|Yuxin Yao et.al.|[2403.11586](http://arxiv.org/abs/2403.11586)|null|
 |**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
