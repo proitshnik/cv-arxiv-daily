@@ -2623,7 +2623,7 @@ layout: default
 |**2024-03-21**|**Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation**|Shun Niijima et.al.|[2403.14161](http://arxiv.org/abs/2403.14161)|null|
 |**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133](http://arxiv.org/abs/2403.14133)|null|
 |**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
-|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|null|
+|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|**[link](https://github.com/lrse/forest-simulator)**|
 |**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/abs/2403.13777)|null|
 |**2024-03-20**|**Machine Learning Optimized Approach for Parameter Selection in MESHFREE Simulations**|Paulami Banerjee et.al.|[2403.13672](http://arxiv.org/abs/2403.13672)|null|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
