@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2647,7 +2647,7 @@ layout: default
 |**2024-03-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al.|[2403.17390](http://arxiv.org/abs/2403.17390)|null|
 |**2024-03-25**|**PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool**|Nathaniel Hanson et.al.|[2403.17232](http://arxiv.org/abs/2403.17232)|null|
 |**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
-|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|null|
+|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
 |**2024-03-25**|**A Method for Target Detection Based on Mmw Radar and Vision Fusion**|Ming Zong et.al.|[2403.16476](http://arxiv.org/abs/2403.16476)|null|
 |**2024-03-25**|**DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding**|Xiaoxuan Yu et.al.|[2403.16431](http://arxiv.org/abs/2403.16431)|**[link](https://github.com/saitpublic/doctr)**|
