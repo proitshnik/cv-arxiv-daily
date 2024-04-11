@@ -602,6 +602,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|null|
+|**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
 |**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
@@ -1773,6 +1775,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/abs/2404.06832)|**[link](https://github.com/m-kruse98/splatpose)**|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
+|**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/abs/2404.06710)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
@@ -2730,6 +2736,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
+|**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
+|**2024-04-10**|**Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**|Kang You et.al.|[2404.06936](http://arxiv.org/abs/2404.06936)|**[link](https://github.com/i2-multimedia-lab/polopcac)**|
+|**2024-04-10**|**DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting**|Shijie Zhou et.al.|[2404.06903](http://arxiv.org/abs/2404.06903)|null|
+|**2024-04-10**|**RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds**|Remco Royen et.al.|[2404.06863](http://arxiv.org/abs/2404.06863)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
+|**2024-04-10**|**CryinGAN: Design and evaluation of point-cloud-based generative adversarial networks using disordered materials $-$ application to Li$_3$ScCl$_6$-LiCoO$_2$ battery interfaces**|Adrian Xiao Bin Yong et.al.|[2404.06734](http://arxiv.org/abs/2404.06734)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/abs/2404.06715)|null|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693](http://arxiv.org/abs/2404.06693)|null|
 |**2024-04-09**|**The Central Spanning Tree Problem**|Enrique Fita Sanmartín et.al.|[2404.06447](http://arxiv.org/abs/2404.06447)|null|
 |**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/abs/2404.06256)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
