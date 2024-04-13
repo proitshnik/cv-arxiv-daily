@@ -2723,7 +2723,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
-|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/abs/2404.07711)|null|
+|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/abs/2404.07711)|**[link](https://github.com/simonbuusjensen/opentrench3d)**|
 |**2024-04-11**|**Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator**|Daniele Mari et.al.|[2404.07698](http://arxiv.org/abs/2404.07698)|null|
 |**2024-04-11**|**Shape Completion in the Dark: Completing Vertebrae Morphology from 3D Ultrasound**|Miruna-Alexandra Gafencu et.al.|[2404.07668](http://arxiv.org/abs/2404.07668)|**[link](https://github.com/miruna20/shape-completion-in-the-dark)**|
 |**2024-04-11**|**Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning through Object Exchange**|Yanhao Wu et.al.|[2404.07504](http://arxiv.org/abs/2404.07504)|null|
