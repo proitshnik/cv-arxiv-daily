@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2842,7 +2842,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-15**|**GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance**|Fuqiang Zhao et.al.|[2405.09310](http://arxiv.org/abs/2405.09310)|null|
+|**2024-05-16**|**GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance**|Fuqiang Zhao et.al.|[2405.09310](http://arxiv.org/abs/2405.09310)|null|
 |**2024-05-14**|**StraightPCF: Straight Point Cloud Filtering**|Dasith de Silva Edirimuni et.al.|[2405.08322](http://arxiv.org/abs/2405.08322)|**[link](https://github.com/ddsediri/straightpcf)**|
 |**2024-05-15**|**Learning functions on symmetric matrices and point clouds via lightweight invariant features**|Ben Blum-Smith et.al.|[2405.08097](http://arxiv.org/abs/2405.08097)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
