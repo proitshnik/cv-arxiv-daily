@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2852,7 +2852,7 @@ layout: default
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
 |**2024-05-16**|**Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation**|Bike Chen et.al.|[2405.10175](http://arxiv.org/abs/2405.10175)|null|
 |**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
-|**2024-05-16**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
+|**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
 |**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780](http://arxiv.org/abs/2405.09780)|null|
 |**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[2405.09755](http://arxiv.org/abs/2405.09755)|null|
 |**2024-05-15**|**Point2SSM++: Self-Supervised Learning of Anatomical Shape Models from Point Clouds**|Jadie Adams et.al.|[2405.09707](http://arxiv.org/abs/2405.09707)|null|
