@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1825,7 +1825,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-27**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
-|**2024-05-27**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
+|**2024-05-28**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|null|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
@@ -2884,7 +2884,7 @@ layout: default
 |**2024-05-27**|**NeurTV: Total Variation on the Neural Domain**|Yisi Luo et.al.|[2405.17241](http://arxiv.org/abs/2405.17241)|null|
 |**2024-05-27**|**Anisotropic Gauss Reconstruction for Unoriented Point Clouds**|Yueji Ma et.al.|[2405.17193](http://arxiv.org/abs/2405.17193)|null|
 |**2024-05-27**|**LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling**|Yaohua Zha et.al.|[2405.17149](http://arxiv.org/abs/2405.17149)|null|
-|**2024-05-27**|**SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain**|Butian Xiong et.al.|[2405.16923](http://arxiv.org/abs/2405.16923)|null|
+|**2024-05-28**|**SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain**|Butian Xiong et.al.|[2405.16923](http://arxiv.org/abs/2405.16923)|null|
 |**2024-05-27**|**Clustering-based Learning for UAV Tracking and Pose Estimation**|Jiaping Xiao et.al.|[2405.16867](http://arxiv.org/abs/2405.16867)|null|
 |**2024-05-24**|**A Higher Order Local Mesh Method for Approximating Laplacians on Unknown Manifolds**|John Wilson Peoples et.al.|[2405.15735](http://arxiv.org/abs/2405.15735)|null|
 |**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|null|
