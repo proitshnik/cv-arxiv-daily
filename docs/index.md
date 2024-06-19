@@ -1864,6 +1864,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-17**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
+|**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
 |**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737](http://arxiv.org/abs/2406.11737)|null|
@@ -2978,6 +2982,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Scan-to-BIM for As-built Roads: Automatic Road Digital Twinning from Semantically Labeled Point Cloud Data**|Yuexiong Ding et.al.|[2406.12404](http://arxiv.org/abs/2406.12404)|null|
+|**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
 |**2024-06-17**|**Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies**|Haojie Huang et.al.|[2406.11740](http://arxiv.org/abs/2406.11740)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732](http://arxiv.org/abs/2406.11732)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-17**|**Duoduo CLIP: Efficient 3D Understanding with Multi-View Images**|Han-Hung Lee et.al.|[2406.11579](http://arxiv.org/abs/2406.11579)|**[link](https://github.com/3dlg-hcvc/DuoduoCLIP)**|
@@ -2985,7 +2991,7 @@ layout: default
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-16**|**MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images**|Eunji Hong et.al.|[2406.10853](http://arxiv.org/abs/2406.10853)|null|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
-|**2024-06-15**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al.|[2406.10700](http://arxiv.org/abs/2406.10700)|null|
+|**2024-06-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al.|[2406.10700](http://arxiv.org/abs/2406.10700)|**[link](https://github.com/gwenzhang/voxel-mamba)**|
 |**2024-06-18**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
 |**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
