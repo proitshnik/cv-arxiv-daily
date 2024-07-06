@@ -1663,7 +1663,7 @@
 |---|---|---|---|---|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
@@ -3054,7 +3054,7 @@
 |**2024-07-03**|**Applying Extended Object Tracking for Self-Localization of Roadside Radar Sensors**|Longfei Han et.al.|[2407.03084](http://arxiv.org/abs/2407.03084)|null|
 |**2024-07-03**|**Electromagnetic Property Sensing Based on Diffusion Model in ISAC System**|Yuhua Jiang et.al.|[2407.03075](http://arxiv.org/abs/2407.03075)|null|
 |**2024-07-03**|**EgoFlowNet: Non-Rigid Scene Flow from Point Clouds with Ego-Motion Support**|Ramy Battrawy et.al.|[2407.02920](http://arxiv.org/abs/2407.02920)|null|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-03**|**Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion**|Hang Xu et.al.|[2407.02887](http://arxiv.org/abs/2407.02887)|**[link](https://github.com/whu-usi3dv/egiinet)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
 |**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786](http://arxiv.org/abs/2407.02786)|null|
