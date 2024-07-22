@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
-|**2024-07-18**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
+|**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
 |**2024-07-18**|**GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding**|Changshuo Wang et.al.|[2407.13519](http://arxiv.org/abs/2407.13519)|**[link](https://github.com/changshuowang/GPSFormer)**|
 |**2024-07-18**|**Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds**|Shengtao Li et.al.|[2407.13342](http://arxiv.org/abs/2407.13342)|null|
 |**2024-07-18**|**A Dataset and Benchmark for Shape Completion of Fruits for Agricultural Robotics**|Federico Magistri et.al.|[2407.13304](http://arxiv.org/abs/2407.13304)|null|
