@@ -1667,7 +1667,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
-|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
+|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|**[link](https://github.com/hanniewhu/remm)**|
 |**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
 |**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
@@ -1912,6 +1912,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
+|**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992](http://arxiv.org/abs/2407.13992)|null|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390](http://arxiv.org/abs/2407.13390)|null|
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
@@ -3096,6 +3099,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
+|**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[2407.14306](http://arxiv.org/abs/2407.14306)|**[link](https://github.com/daniel-bogdoll/model_contradictions)**|
+|**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054](http://arxiv.org/abs/2407.14054)|**[link](https://github.com/chen-suyi/pointreggpt)**|
+|**2024-07-19**|**Scale Disparity of Instances in Interactive Point Cloud Segmentation**|Chenrui Han et.al.|[2407.14009](http://arxiv.org/abs/2407.14009)|null|
+|**2024-07-19**|**Multi-modal Relation Distillation for Unified 3D Representation Learning**|Huiqun Wang et.al.|[2407.14007](http://arxiv.org/abs/2407.14007)|null|
+|**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930](http://arxiv.org/abs/2407.13930)|null|
+|**2024-07-18**|**EggNet: An Evolving Graph-based Graph Attention Network for Particle Track Reconstruction**|Paolo Calafiura et.al.|[2407.13925](http://arxiv.org/abs/2407.13925)|null|
+|**2024-07-18**|**Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance**|Toan Nguyen et.al.|[2407.13842](http://arxiv.org/abs/2407.13842)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
