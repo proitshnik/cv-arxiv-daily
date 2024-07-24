@@ -589,6 +589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890](http://arxiv.org/abs/2407.15890)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305](http://arxiv.org/abs/2407.15305)|null|
 |**2024-07-22**|**Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation**|Mathieu Labbé et.al.|[2407.15304](http://arxiv.org/abs/2407.15304)|null|
@@ -1918,6 +1919,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
@@ -3107,6 +3110,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**|Yukai Ma et.al.|[2407.16197](http://arxiv.org/abs/2407.16197)|null|
+|**2024-07-23**|**CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation**|Hajin Shim et.al.|[2407.16193](http://arxiv.org/abs/2407.16193)|null|
+|**2024-07-23**|**Augmented Efficiency: Reducing Memory Footprint and Accelerating Inference for 3D Semantic Segmentation through Hybrid Vision**|Aditya Krishnan et.al.|[2407.16102](http://arxiv.org/abs/2407.16102)|null|
+|**2024-07-22**|**On Flange-based 3D Hand-Eye Calibration for Soft Robotic Tactile Welding**|Xudong Han et.al.|[2407.16041](http://arxiv.org/abs/2407.16041)|null|
 |**2024-07-22**|**MILAN: Milli-Annotations for Lidar Semantic Segmentation**|Nermin Samet et.al.|[2407.15797](http://arxiv.org/abs/2407.15797)|null|
 |**2024-07-22**|**Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection**|Kangqi Ma et.al.|[2407.15771](http://arxiv.org/abs/2407.15771)|null|
 |**2024-07-22**|**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**|Alexander Melekhin et.al.|[2407.15663](http://arxiv.org/abs/2407.15663)|**[link](https://github.com/alexmelekhin/mssplace)**|
