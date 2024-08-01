@@ -589,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
@@ -1929,6 +1931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
@@ -3126,6 +3129,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation**|Sudhir Yarram et.al.|[2407.21450](http://arxiv.org/abs/2407.21450)|null|
+|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
+|**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
+|**2024-07-31**|**A network based approach for unbalanced optimal transport on surfaces**|Jiangong Pan et.al.|[2407.21346](http://arxiv.org/abs/2407.21346)|null|
+|**2024-07-31**|**High-throughput 3D shape completion of potato tubers on a harvester**|Pieter M. Blok et.al.|[2407.21341](http://arxiv.org/abs/2407.21341)|null|
+|**2024-07-31**|**On-the-fly Point Feature Representation for Point Clouds Analysis**|Jiangyi Wang et.al.|[2407.21335](http://arxiv.org/abs/2407.21335)|null|
+|**2024-07-31**|**TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics**|Yash Melkani et.al.|[2407.21290](http://arxiv.org/abs/2407.21290)|null|
+|**2024-07-31**|**Fine-grained Metrics for Point Cloud Semantic Segmentation**|Zhuheng Lu et.al.|[2407.21289](http://arxiv.org/abs/2407.21289)|null|
+|**2024-07-30**|**PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds**|Kerem Mertoğlu et.al.|[2407.21150](http://arxiv.org/abs/2407.21150)|null|
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-31**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|null|
 |**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders et.al.|[2407.20437](http://arxiv.org/abs/2407.20437)|null|
