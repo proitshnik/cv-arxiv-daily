@@ -1932,6 +1932,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/abs/2408.01251)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
@@ -3131,6 +3133,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
+|**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
+|**2024-08-02**|**Extracting Object Heights From LiDAR & Aerial Imagery**|Jesus Guerrero et.al.|[2408.00967](http://arxiv.org/abs/2408.00967)|null|
 |**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
 |**2024-08-01**|**Task-oriented and Semantics-aware Communications for Augmented Reality**|Zhe Wang et.al.|[2408.00407](http://arxiv.org/abs/2408.00407)|null|
