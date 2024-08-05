@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3138,7 +3138,7 @@ layout: default
 |**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-08-01**|**Persistent de Rham-Hodge Laplacians in the Eulerian representation**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
-|**2024-07-31**|**Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation**|Sudhir Yarram et.al.|[2407.21450](http://arxiv.org/abs/2407.21450)|null|
+|**2024-08-02**|**Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation**|Sudhir Yarram et.al.|[2407.21450](http://arxiv.org/abs/2407.21450)|null|
 |**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
 |**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
 |**2024-07-31**|**A network based approach for unbalanced optimal transport on surfaces**|Jiangong Pan et.al.|[2407.21346](http://arxiv.org/abs/2407.21346)|null|
