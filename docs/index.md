@@ -589,6 +589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
@@ -1694,6 +1695,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -1948,6 +1950,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
+|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
@@ -3176,6 +3180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935](http://arxiv.org/abs/2408.10935)|null|
+|**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906](http://arxiv.org/abs/2408.10906)|null|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
+|**2024-08-20**|**Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**|Pengkun Wei et.al.|[2408.10710](http://arxiv.org/abs/2408.10710)|null|
+|**2024-08-20**|**End-to-end learned Lossy Dynamic Point Cloud Attribute Compression**|Dat Thanh Nguyen et.al.|[2408.10665](http://arxiv.org/abs/2408.10665)|null|
+|**2024-08-20**|**Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant**|Guofeng Mei et.al.|[2408.10652](http://arxiv.org/abs/2408.10652)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**A two-sample test based on averaged Wilcoxon rank sums over interpoint distances**|Annika Betken et.al.|[2408.10570](http://arxiv.org/abs/2408.10570)|null|
+|**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
 |**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|null|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041](http://arxiv.org/abs/2408.10041)|null|
 |**2024-08-19**|**OccMamba: Semantic Occupancy Prediction with State Space Models**|Heng Li et.al.|[2408.09859](http://arxiv.org/abs/2408.09859)|null|
