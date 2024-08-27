@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3193,7 +3193,7 @@ layout: default
 |**2024-08-23**|**Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**|Xianqiang Gao et.al.|[2408.13024](http://arxiv.org/abs/2408.13024)|null|
 |**2024-08-23**|**HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices**|Ao Zhou et.al.|[2408.12840](http://arxiv.org/abs/2408.12840)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
-|**2024-08-23**|**UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration**|Yuval Haitman et.al.|[2408.12380](http://arxiv.org/abs/2408.12380)|**[link](https://github.com/yuvalh9/umeregrobust)**|
+|**2024-08-23**|**UMERegRobust - Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration**|Yuval Haitman et.al.|[2408.12380](http://arxiv.org/abs/2408.12380)|**[link](https://github.com/yuvalh9/umeregrobust)**|
 |**2024-08-23**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191](http://arxiv.org/abs/2408.12191)|null|
 |**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062](http://arxiv.org/abs/2408.12062)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
