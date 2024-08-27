@@ -589,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
@@ -1700,6 +1702,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
@@ -1956,6 +1960,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
+|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508](http://arxiv.org/abs/2408.13508)|null|
+|**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285](http://arxiv.org/abs/2408.13285)|**[link](https://github.com/kaistchangmin/sin-nerf2nerf)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
@@ -3189,6 +3197,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Evaluating saliency scores in point clouds of natural environments by learning surface anomalies**|Reuma Arav et.al.|[2408.14421](http://arxiv.org/abs/2408.14421)|null|
+|**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279](http://arxiv.org/abs/2408.14279)|null|
+|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
+|**2024-08-25**|**OpenNav: Efficient Open Vocabulary 3D Object Detection for Smart Wheelchair Navigation**|Muhammad Rameez ur Rahman et.al.|[2408.13936](http://arxiv.org/abs/2408.13936)|**[link](https://github.com/easywalk-prin/opennav)**|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
+|**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902](http://arxiv.org/abs/2408.13902)|null|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
+|**2024-08-25**|**Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation**|Zhaoyang Li et.al.|[2408.13752](http://arxiv.org/abs/2408.13752)|null|
+|**2024-08-25**|**Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2408.13712](http://arxiv.org/abs/2408.13712)|**[link](https://github.com/liwrui/rmarn)**|
 |**2024-08-23**|**ShapeICP: Iterative Category-level Object Pose and Shape Estimation from Depth**|Yihao Zhang et.al.|[2408.13147](http://arxiv.org/abs/2408.13147)|null|
 |**2024-08-23**|**Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**|Xianqiang Gao et.al.|[2408.13024](http://arxiv.org/abs/2408.13024)|null|
 |**2024-08-23**|**HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices**|Ao Zhou et.al.|[2408.12840](http://arxiv.org/abs/2408.12840)|null|
