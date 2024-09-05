@@ -589,6 +589,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|null|
+|**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936](http://arxiv.org/abs/2409.01936)|null|
+|**2024-09-02**|**A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches**|Kim Jinwoo et.al.|[2409.01219](http://arxiv.org/abs/2409.01219)|null|
+|**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091](http://arxiv.org/abs/2409.01091)|null|
+|**2024-09-02**|**Evidential Transformers for Improved Image Retrieval**|Danilo Dordevic et.al.|[2409.01082](http://arxiv.org/abs/2409.01082)|null|
+|**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
 |**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
@@ -1968,6 +1974,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
+|**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
+|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|null|
 |**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
@@ -3213,6 +3222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389](http://arxiv.org/abs/2409.02389)|null|
+|**2024-09-03**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
+|**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
+|**2024-09-03**|**Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**|Qiang Zheng et.al.|[2409.02020](http://arxiv.org/abs/2409.02020)|null|
+|**2024-09-03**|**PMT-MAE: Dual-Branch Self-Supervised Learning with Distillation for Efficient Point Cloud Classification**|Qiang Zheng et.al.|[2409.02007](http://arxiv.org/abs/2409.02007)|null|
+|**2024-09-03**|**SA-MLP: Enhancing Point Cloud Classification with Efficient Addition and Shift Operations in MLP Architectures**|Qiang Zheng et.al.|[2409.01998](http://arxiv.org/abs/2409.01998)|null|
+|**2024-09-03**|**SPiKE: 3D Human Pose from Point Cloud Sequences**|Irene Ballester et.al.|[2409.01879](http://arxiv.org/abs/2409.01879)|**[link](https://github.com/iballester/SPiKE)**|
+|**2024-09-03**|**Explicit Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric**|Tingchen Ma et.al.|[2409.01856](http://arxiv.org/abs/2409.01856)|null|
+|**2024-09-03**|**When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels**|Yifan Liu et.al.|[2409.01691](http://arxiv.org/abs/2409.01691)|null|
+|**2024-09-03**|**Efficiently Expanding Receptive Fields: Local Split Attention and Parallel Aggregation for Enhanced Large-scale Point Cloud Semantic Segmentation**|Haodong Wang et.al.|[2409.01662](http://arxiv.org/abs/2409.01662)|null|
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
