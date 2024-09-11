@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3249,7 +3249,7 @@ layout: default
 |**2024-09-08**|**Imputation of Time-varying Edge Flows in Graphs by Multilinear Kernel Regression and Manifold Learning**|Duc Thien Nguyen et.al.|[2409.05135](http://arxiv.org/abs/2409.05135)|null|
 |**2024-09-08**|**Sight View Constraint for Robust Point Cloud Registration**|Yaojie Zhang et.al.|[2409.05065](http://arxiv.org/abs/2409.05065)|null|
 |**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963](http://arxiv.org/abs/2409.04963)|null|
-|**2024-09-07**|**Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion**|Yan Chen et.al.|[2409.04760](http://arxiv.org/abs/2409.04760)|null|
+|**2024-09-10**|**Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion**|Yan Chen et.al.|[2409.04760](http://arxiv.org/abs/2409.04760)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
