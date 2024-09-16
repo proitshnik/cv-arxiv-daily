@@ -1500,6 +1500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|null|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -3272,6 +3273,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926](http://arxiv.org/abs/2409.08926)|null|
+|**2024-09-13**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824](http://arxiv.org/abs/2409.08824)|**[link](https://github.com/imrl/pathfinder)**|
+|**2024-09-13**|**DexSim2Real $^{2}$ : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**|Taoran Jiang et.al.|[2409.08750](http://arxiv.org/abs/2409.08750)|null|
+|**2024-09-13**|**SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments**|Zehuan Yu et.al.|[2409.08681](http://arxiv.org/abs/2409.08681)|null|
+|**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
+|**2024-09-13**|**CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction**|Zhi Chen et.al.|[2409.08443](http://arxiv.org/abs/2409.08443)|**[link](https://github.com/uqzhichen/CF-PRNet)**|
+|**2024-09-12**|**Continual Learning in 3D Point Clouds: Employing Spectral Techniques for Exemplar Selection**|Hossein Resani et.al.|[2409.08388](http://arxiv.org/abs/2409.08388)|null|
+|**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376](http://arxiv.org/abs/2409.08376)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen et.al.|[2409.08207](http://arxiv.org/abs/2409.08207)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
