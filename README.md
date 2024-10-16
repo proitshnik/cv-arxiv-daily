@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -449,7 +449,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## SFM
 
@@ -596,7 +596,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1531,7 +1531,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1784,7 +1784,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2053,7 +2053,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## NeRF
 
@@ -3368,7 +3368,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## point cloud
 
@@ -3376,7 +3376,7 @@
 |---|---|---|---|---|
 |**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803](http://arxiv.org/abs/2410.10803)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
 |**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
-|**2024-10-14**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
+|**2024-10-15**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295](http://arxiv.org/abs/2410.10295)|**[link](https://github.com/renlanghuang/cast)**|
 |**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
 |**2024-10-14**|**PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets**|Ali Kashefi et.al.|[2410.10084](http://arxiv.org/abs/2410.10084)|null|
@@ -4647,7 +4647,7 @@
 |**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770](http://arxiv.org/abs/2311.17770)|null|
 |**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707](http://arxiv.org/abs/2311.17707)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

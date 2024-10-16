@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3355,7 +3355,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803](http://arxiv.org/abs/2410.10803)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
 |**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
-|**2024-10-14**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
+|**2024-10-15**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295](http://arxiv.org/abs/2410.10295)|**[link](https://github.com/renlanghuang/cast)**|
 |**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
 |**2024-10-14**|**PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets**|Ali Kashefi et.al.|[2410.10084](http://arxiv.org/abs/2410.10084)|null|
