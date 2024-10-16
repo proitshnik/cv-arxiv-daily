@@ -602,6 +602,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
+|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
 |**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
@@ -1790,6 +1792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
@@ -3374,6 +3377,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
+|**2024-10-15**|**Simultaneous Diffusion Sampling for Conditional LiDAR Generation**|Ryan Faulkner et.al.|[2410.11628](http://arxiv.org/abs/2410.11628)|null|
+|**2024-10-15**|**DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment**|Wendi Chen et.al.|[2410.11584](http://arxiv.org/abs/2410.11584)|null|
+|**2024-10-15**|**PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model**|Shang-Ching Liu et.al.|[2410.11564](http://arxiv.org/abs/2410.11564)|null|
+|**2024-10-15**|**Electrical Transport in Tunably-Disordered Metamaterials**|Caitlyn Obrero et.al.|[2410.11525](http://arxiv.org/abs/2410.11525)|null|
+|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492](http://arxiv.org/abs/2410.11492)|null|
+|**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394](http://arxiv.org/abs/2410.11394)|null|
+|**2024-10-15**|**Visual Manipulation with Legs**|Xialin He et.al.|[2410.11345](http://arxiv.org/abs/2410.11345)|null|
+|**2024-10-14**|**Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**|Raja Kumar et.al.|[2410.11080](http://arxiv.org/abs/2410.11080)|**[link](https://github.com/raja-kumar/depth-aware-3dgs)**|
 |**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803](http://arxiv.org/abs/2410.10803)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
 |**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
 |**2024-10-15**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
