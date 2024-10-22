@@ -589,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
+|**2024-10-19**|**Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**|Marie Roald et.al.|[2410.14969](http://arxiv.org/abs/2410.14969)|null|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|null|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
@@ -1527,6 +1529,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**|Aman Anand et.al.|[2410.14700](http://arxiv.org/abs/2410.14700)|null|
 |**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
@@ -2051,10 +2054,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
+|**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
-|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
+|**2024-10-21**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
 |**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349](http://arxiv.org/abs/2410.13349)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262](http://arxiv.org/abs/2410.12262)|null|
@@ -3372,6 +3378,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
+|**2024-10-21**|**Triplane Grasping: Efficient 6-DoF Grasping with Single RGB Images**|Yiming Li et.al.|[2410.15879](http://arxiv.org/abs/2410.15879)|null|
+|**2024-10-21**|**LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training**|Thomas Kreutz et.al.|[2410.15833](http://arxiv.org/abs/2410.15833)|**[link](https://github.com/jensle97/lion-xa)**|
+|**2024-10-21**|**WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**|Heng Zhai et.al.|[2410.15792](http://arxiv.org/abs/2410.15792)|null|
+|**2024-10-21**|**MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**|Yu Sheng et.al.|[2410.15730](http://arxiv.org/abs/2410.15730)|null|
+|**2024-10-21**|**RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration**|Pengcheng Shi et.al.|[2410.15682](http://arxiv.org/abs/2410.15682)|**[link](https://github.com/shipc-ai/tcf)**|
+|**2024-10-21**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629](http://arxiv.org/abs/2410.15629)|null|
+|**2024-10-21**|**Joint Top-Down and Bottom-Up Frameworks for 3D Visual Grounding**|Yang Liu et.al.|[2410.15615](http://arxiv.org/abs/2410.15615)|null|
+|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|null|
 |**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
 |**2024-10-18**|**JAMUN: Transferable Molecular Conformational Ensemble Generation with Walk-Jump Sampling**|Ameya Daigavane et.al.|[2410.14621](http://arxiv.org/abs/2410.14621)|null|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565](http://arxiv.org/abs/2410.14565)|null|
