@@ -602,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
 |**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
@@ -2105,6 +2106,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
+|**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
@@ -3476,7 +3481,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-15**|**Learning Generalizable 3D Manipulation With 10 Demonstrations**|Yu Ren et.al.|[2411.10203](http://arxiv.org/abs/2411.10203)|null|
+|**2024-11-16**|**Deep Loss Convexification for Learning Iterative Models**|Ziming Zhang et.al.|[2411.10649](http://arxiv.org/abs/2411.10649)|null|
+|**2024-11-15**|**Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning**|Owen Burns et.al.|[2411.10616](http://arxiv.org/abs/2411.10616)|null|
+|**2024-11-15**|**TESGNN: Temporal Equivariant Scene Graph Neural Networks for Efficient and Robust Multi-View 3D Scene Understanding**|Quang P. M. Pham et.al.|[2411.10509](http://arxiv.org/abs/2411.10509)|null|
+|**2024-11-14**|**MFP3D: Monocular Food Portion Estimation Leveraging 3D Point Clouds**|Jinge Ma et.al.|[2411.10492](http://arxiv.org/abs/2411.10492)|null|
+|**2024-11-15**|**Learning Generalizable 3D Manipulation With 10 Demonstrations**|Yu Ren et.al.|[2411.10203](http://arxiv.org/abs/2411.10203)|**[link](https://github.com/renyu2016/Generalized-3D-Manipulation)**|
 |**2024-11-14**|**Cross-Matched Interval Prevalence of High Dimensional Point Clouds**|Jonathan M. Mousley et.al.|[2411.09797](http://arxiv.org/abs/2411.09797)|null|
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435](http://arxiv.org/abs/2411.09435)|null|
 |**2024-11-14**|**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**|Shengchao Zhao et.al.|[2411.09156](http://arxiv.org/abs/2411.09156)|null|
