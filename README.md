@@ -3532,6 +3532,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Towards Zero-shot 3D Anomaly Localization**|Yizhou Wang et.al.|[2412.04304](http://arxiv.org/abs/2412.04304)|null|
+|**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286](http://arxiv.org/abs/2412.04286)|null|
+|**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
+|**2024-12-05**|**CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**|Thomas Walker et.al.|[2412.04120](http://arxiv.org/abs/2412.04120)|null|
+|**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|null|
+|**2024-12-05**|**Coordinate In and Value Out: Training Flow Transformers in Ambient Space**|Yuyang Wang et.al.|[2412.03791](http://arxiv.org/abs/2412.03791)|null|
 |**2024-12-04**|**Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter**|Hermes McGriff et.al.|[2412.03518](http://arxiv.org/abs/2412.03518)|null|
 |**2024-12-04**|**AffordDP: Generalizable Diffusion Policy with Transferable Affordance**|Shijie Wu et.al.|[2412.03142](http://arxiv.org/abs/2412.03142)|null|
 |**2024-12-04**|**CLAP: Unsupervised 3D Representation Learning for Fusion 3D Perception via Curvature Sampling and Prototype Learning**|Runjian Chen et.al.|[2412.03059](http://arxiv.org/abs/2412.03059)|null|
