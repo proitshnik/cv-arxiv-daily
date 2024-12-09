@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3512,7 +3512,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Towards Zero-shot 3D Anomaly Localization**|Yizhou Wang et.al.|[2412.04304](http://arxiv.org/abs/2412.04304)|null|
-|**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286](http://arxiv.org/abs/2412.04286)|null|
+|**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286](http://arxiv.org/abs/2412.04286)|**[link](https://github.com/gdepaul/DensiTDA)**|
 |**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
 |**2024-12-05**|**CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**|Thomas Walker et.al.|[2412.04120](http://arxiv.org/abs/2412.04120)|null|
 |**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|**[link](https://github.com/jaegercq/4d-slingbag)**|
