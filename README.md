@@ -2177,6 +2177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
@@ -3617,6 +3618,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|null|
+|**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928](http://arxiv.org/abs/2501.04928)|null|
+|**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|null|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
 |**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|null|
