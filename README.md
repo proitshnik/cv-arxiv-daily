@@ -2186,6 +2186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
@@ -3636,6 +3637,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
+|**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
+|**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
 |**2025-01-15**|**A Multi-modal Intelligent Channel Model for 6G Multi-UAV-to-Multi-Vehicle Communications**|Lu Bai et.al.|[2501.08825](http://arxiv.org/abs/2501.08825)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
 |**2025-01-15**|**Image-to-Force Estimation for Soft Tissue Interaction in Robotic-Assisted Surgery Using Structured Light**|Jiayin Wang et.al.|[2501.08593](http://arxiv.org/abs/2501.08593)|null|
