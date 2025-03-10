@@ -589,6 +589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
@@ -1666,7 +1667,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
+|**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
+|**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
@@ -3754,6 +3756,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
+|**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630](http://arxiv.org/abs/2503.05630)|null|
+|**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
+|**2025-03-07**|**Separability Membrane: 3D Active Contour for Point Cloud Surface Reconstruction**|Gulpi Qorik Oktagalu Pratamasunu et.al.|[2503.05217](http://arxiv.org/abs/2503.05217)|null|
+|**2025-03-07**|**StreamGrid: Streaming Point Cloud Analytics via Compulsory Splitting and Deterministic Termination**|Yu Feng et.al.|[2503.05197](http://arxiv.org/abs/2503.05197)|null|
+|**2025-03-07**|**HexPlane Representation for 3D Semantic Scene Understanding**|Zeren Chen et.al.|[2503.05127](http://arxiv.org/abs/2503.05127)|null|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|null|
+|**2025-03-06**|**Spectral Informed Mamba for Robust Point Cloud Processing**|Ali Bahri et.al.|[2503.04953](http://arxiv.org/abs/2503.04953)|null|
+|**2025-03-06**|**Neural Configuration-Space Barriers for Manipulation Planning and Control**|Kehan Long et.al.|[2503.04929](http://arxiv.org/abs/2503.04929)|null|
+|**2025-03-06**|**Efficiently parallelizable kernel-based multi-scale algorithm**|Federico Lot et.al.|[2503.04914](http://arxiv.org/abs/2503.04914)|null|
 |**2025-03-06**|**Transferable Foundation Models for Geometric Tasks on Point Cloud Representations: Geometric Neural Operators**|Blaine Quackenbush et.al.|[2503.04649](http://arxiv.org/abs/2503.04649)|null|
 |**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
