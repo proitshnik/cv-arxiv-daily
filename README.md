@@ -602,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-11**|**CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**|Dongyue Li et.al.|[2503.08170](http://arxiv.org/abs/2503.08170)|null|
@@ -1983,6 +1984,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
@@ -3804,6 +3806,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/abs/2503.11629)|null|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
 |**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|**[link](https://github.com/boqian-li/ETCH)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
