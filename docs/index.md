@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3801,14 +3801,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**Deep Unsupervised Segmentation of Log Point Clouds**|Fedor Zolotarev et.al.|[2503.14244](http://arxiv.org/abs/2503.14244)|null|
 |**2025-03-18**|**RBFIM: Perceptual Quality Assessment for Compressed Point Clouds Using Radial Basis Function Interpolation**|Zhang Chen et.al.|[2503.14154](http://arxiv.org/abs/2503.14154)|null|
-|**2025-03-18**|**Monoidal Rips: Stable Multiparameter Filtrations of Directed Networks**|Nello Blaser et.al.|[2503.14019](http://arxiv.org/abs/2503.14019)|null|
-|**2025-03-18**|**Multimodal Feature-Driven Deep Learning for the Prediction of Duck Body Dimensions and Weight**|Yi Xiao et.al.|[2503.14001](http://arxiv.org/abs/2503.14001)|null|
+|**2025-03-18**|**Monoidal Rips: Stable Multiparameter Filtrations of Directed Networks**|Nello Blaser et.al.|[2503.14019](http://arxiv.org/abs/2503.14019)|**[link](https://github.com/odinhg/Monoidal-Rips)**|
+|**2025-03-19**|**Multimodal Feature-Driven Deep Learning for the Prediction of Duck Body Dimensions and Weight**|Yi Xiao et.al.|[2503.14001](http://arxiv.org/abs/2503.14001)|null|
 |**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951](http://arxiv.org/abs/2503.13951)|null|
-|**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926](http://arxiv.org/abs/2503.13926)|null|
+|**2025-03-19**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926](http://arxiv.org/abs/2503.13926)|null|
 |**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
