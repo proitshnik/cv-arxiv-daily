@@ -589,6 +589,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
+|**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
+|**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
+|**2025-03-22**|**good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**|Pranavi Kolouju et.al.|[2503.17871](http://arxiv.org/abs/2503.17871)|null|
 |**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|null|
 |**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
 |**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
@@ -1978,6 +1982,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|null|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
@@ -2289,6 +2294,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
+|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
+|**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|null|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
@@ -3818,6 +3830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
+|**2025-03-24**|**FG $^2$ : Fine-Grained Cross-View Localization by Fine-Grained Feature Matching**|Zimin Xia et.al.|[2503.18725](http://arxiv.org/abs/2503.18725)|null|
+|**2025-03-24**|**UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach**|Kangli Wang et.al.|[2503.18541](http://arxiv.org/abs/2503.18541)|**[link](https://github.com/Wangkkklll/UniPCGC)**|
+|**2025-03-24**|**AIM2PC: Aerial Image to 3D Building Point Cloud Reconstruction**|Soulaimene Turki et.al.|[2503.18527](http://arxiv.org/abs/2503.18527)|null|
+|**2025-03-24**|**MoST: Efficient Monarch Sparse Tuning for 3D Representation Learning**|Xu Han et.al.|[2503.18368](http://arxiv.org/abs/2503.18368)|null|
+|**2025-03-24**|**MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction**|Wenyuan Zhang et.al.|[2503.18363](http://arxiv.org/abs/2503.18363)|null|
+|**2025-03-24**|**Voxel-based Point Cloud Geometry Compression with Space-to-Channel Context**|Bojun Liu et.al.|[2503.18283](http://arxiv.org/abs/2503.18283)|null|
+|**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
+|**2025-03-23**|**GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**|Jun Gao et.al.|[2503.18078](http://arxiv.org/abs/2503.18078)|null|
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316](http://arxiv.org/abs/2503.17316)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
 |**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153](http://arxiv.org/abs/2503.17153)|null|
