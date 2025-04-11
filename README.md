@@ -602,11 +602,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
-|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|**[link](https://github.com/longvideohaystack/tstar)**|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
@@ -3917,6 +3919,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer**|Huilin Yin et.al.|[2504.07441](http://arxiv.org/abs/2504.07441)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
 |**2025-04-09**|**Visualisation of a multidimensional point cloud as a 3D swarm of avatars**|Leszek Luchowski et.al.|[2504.06751](http://arxiv.org/abs/2504.06751)|null|
 |**2025-04-09**|**FACT: Multinomial Misalignment Classification for Point Cloud Registration**|Ludvig Dillén et.al.|[2504.06627](http://arxiv.org/abs/2504.06627)|null|
