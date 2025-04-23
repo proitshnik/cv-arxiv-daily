@@ -2343,6 +2343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
@@ -3924,6 +3925,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning**|Song Wang et.al.|[2504.16023](http://arxiv.org/abs/2504.16023)|null|
+|**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-21**|**Robust and Real-time Surface Normal Estimation from Stereo Disparities using Affine Transformations**|Csongor Csanad Kariko et.al.|[2504.15121](http://arxiv.org/abs/2504.15121)|null|
 |**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
 |**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
