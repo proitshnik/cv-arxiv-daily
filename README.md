@@ -2391,6 +2391,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
 |**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
@@ -4004,6 +4005,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205](http://arxiv.org/abs/2505.10205)|null|
+|**2025-05-15**|**From Combinatorics to Partial Differential Equations**|Francesco Mattesini et.al.|[2505.10175](http://arxiv.org/abs/2505.10175)|null|
+|**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Zibin Dong et.al.|[2505.10105](http://arxiv.org/abs/2505.10105)|null|
+|**2025-05-15**|**LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping**|Lijie Wang et.al.|[2505.10018](http://arxiv.org/abs/2505.10018)|null|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
+|**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|
+|**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
+|**2025-05-14**|**VALVEFIT: An analysis-suitable B-spline-based surface fitting framework for patient-specific modeling of tricuspid valves**|Ajith Moola et.al.|[2505.09790](http://arxiv.org/abs/2505.09790)|null|
 |**2025-05-15**|**Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments**|Nuthasith Gerdpratoom et.al.|[2505.09434](http://arxiv.org/abs/2505.09434)|null|
 |**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
 |**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424](http://arxiv.org/abs/2505.09424)|null|
