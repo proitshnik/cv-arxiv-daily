@@ -3997,6 +3997,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
+|**2025-05-21**|**The P $^3$ dataset: Pixels, Points and Polygons for Multimodal Building Vectorization**|Raphael Sulzer et.al.|[2505.15379](http://arxiv.org/abs/2505.15379)|**[link](https://github.com/raphaelsulzer/pixelspointspolygons)**|
+|**2025-05-20**|**Rate-Accuracy Bounds in Visual Coding for Machines**|Ivan V. Bajić et.al.|[2505.14980](http://arxiv.org/abs/2505.14980)|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
 |**2025-05-20**|**Flexible-weighted Chamfer Distance: Enhanced Objective Function for Point Cloud Completion**|Jie Li et.al.|[2505.14218](http://arxiv.org/abs/2505.14218)|null|
 |**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
