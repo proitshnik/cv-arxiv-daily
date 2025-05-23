@@ -602,6 +602,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
+|**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -2399,6 +2402,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
@@ -4018,6 +4022,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969](http://arxiv.org/abs/2505.16969)|null|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
+|**2025-05-22**|**How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning**|Hannah Sansford et.al.|[2505.16879](http://arxiv.org/abs/2505.16879)|null|
+|**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726](http://arxiv.org/abs/2505.16726)|**[link](https://github.com/robotics-upo/D-LIO)**|
+|**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725](http://arxiv.org/abs/2505.16725)|null|
+|**2025-05-22**|**SEDD-PCC: A Single Encoder-Dual Decoder Framework For End-To-End Learned Point Cloud Compression**|Kai Hsiang Hsieh et.al.|[2505.16709](http://arxiv.org/abs/2505.16709)|null|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|
+|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
+|**2025-05-22**|**SEM: Enhancing Spatial Understanding for Robust Robot Manipulation**|Xuewu Lin et.al.|[2505.16196](http://arxiv.org/abs/2505.16196)|null|
+|**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165](http://arxiv.org/abs/2505.16165)|null|
 |**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
 |**2025-05-21**|**The P $^3$ dataset: Pixels, Points and Polygons for Multimodal Building Vectorization**|Raphael Sulzer et.al.|[2505.15379](http://arxiv.org/abs/2505.15379)|**[link](https://github.com/raphaelsulzer/pixelspointspolygons)**|
 |**2025-05-20**|**Rate-Accuracy Bounds in Visual Coding for Machines**|Ivan V. Bajić et.al.|[2505.14980](http://arxiv.org/abs/2505.14980)|null|
