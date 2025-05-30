@@ -602,6 +602,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
+|**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754](http://arxiv.org/abs/2505.21754)|null|
@@ -1774,6 +1776,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|null|
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
@@ -2421,6 +2424,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
@@ -4051,6 +4056,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
+|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599](http://arxiv.org/abs/2505.23599)|null|
+|**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469](http://arxiv.org/abs/2505.23469)|null|
+|**2025-05-29**|**GenCAD-Self-Repairing: Feasibility Enhancement for 3D CAD Generation**|Chikaha Tsuji et.al.|[2505.23287](http://arxiv.org/abs/2505.23287)|null|
+|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|null|
+|**2025-05-28**|**cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning**|Maksim Kolodiazhnyi et.al.|[2505.22914](http://arxiv.org/abs/2505.22914)|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504](http://arxiv.org/abs/2505.22504)|null|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
 |**2025-05-28**|**On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**|Liyao Tang et.al.|[2505.22444](http://arxiv.org/abs/2505.22444)|null|
