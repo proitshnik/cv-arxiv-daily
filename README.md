@@ -4060,7 +4060,7 @@
 |---|---|---|---|---|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641](http://arxiv.org/abs/2505.24641)|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
+|**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625](http://arxiv.org/abs/2505.24625)|null|
 |**2025-05-30**|**SPPSFormer: High-quality Superpoint-based Transformer for Roof Plane Instance Segmentation from Point Clouds**|Cheng Zeng et.al.|[2505.24475](http://arxiv.org/abs/2505.24475)|null|
 |**2025-05-30**|**Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation**|Bozhong Zheng et.al.|[2505.24431](http://arxiv.org/abs/2505.24431)|null|
