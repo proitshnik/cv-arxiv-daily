@@ -4061,6 +4061,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
+|**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081](http://arxiv.org/abs/2506.04081)|null|
+|**2025-06-04**|**EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects**|Gabriele Magrini et.al.|[2506.04048](http://arxiv.org/abs/2506.04048)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
+|**2025-06-04**|**Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision**|Tomoya Yoshida et.al.|[2506.03605](http://arxiv.org/abs/2506.03605)|null|
+|**2025-06-03**|**Channel-adaptive Cross-modal Generative Semantic Communication for Point Cloud Transmission**|Wanting Yang et.al.|[2506.03211](http://arxiv.org/abs/2506.03211)|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
