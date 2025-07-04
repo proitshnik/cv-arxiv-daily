@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4123,9 +4123,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
-|**2025-07-02**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
+|**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-07-02**|**Robust Multi-generation Learned Compression of Point Cloud Attribute**|Xiangzuo Liu et.al.|[2507.01320](http://arxiv.org/abs/2507.01320)|null|
 |**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937](http://arxiv.org/abs/2507.00937)|null|
 |**2025-07-01**|**An in depth look at the Procrustes-Wasserstein distance: properties and barycenters**|Davide Adamo et.al.|[2507.00894](http://arxiv.org/abs/2507.00894)|null|
