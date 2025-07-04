@@ -4144,6 +4144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
 |**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
